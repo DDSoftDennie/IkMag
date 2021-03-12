@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.Domain", "IkMag.Domain\IkMag.Domain.csproj", "{8E4EFC70-70C2-4280-A355-3F6AFFCC0405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.Data", "IkMag.Data\IkMag.Data.csproj", "{956076DB-D927-49F5-840D-0F1512758879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4EFC70-70C2-4280-A355-3F6AFFCC0405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4EFC70-70C2-4280-A355-3F6AFFCC0405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4EFC70-70C2-4280-A355-3F6AFFCC0405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4EFC70-70C2-4280-A355-3F6AFFCC0405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956076DB-D927-49F5-840D-0F1512758879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956076DB-D927-49F5-840D-0F1512758879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956076DB-D927-49F5-840D-0F1512758879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956076DB-D927-49F5-840D-0F1512758879}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDACF369-5107-4E90-80ED-67CC8F092F13}
+	EndGlobalSection
+EndGlobal
