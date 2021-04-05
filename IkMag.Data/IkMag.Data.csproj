@@ -6,8 +6,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.4" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\IkMag.Domain\IkMag.Domain.csproj" />
+    <ProjectReference Include="..\IkMag.secrets\IkMag.secrets.csproj" />
   </ItemGroup>
 </Project>

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.Domain", "IkMag.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.Data", "IkMag.Data\IkMag.Data.csproj", "{956076DB-D927-49F5-840D-0F1512758879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.secrets", "IkMag.secrets\IkMag.secrets.csproj", "{9C63412E-BBD0-4469-87AB-C66AABE7BCED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkMag.Cons", "IkMag.Cons\IkMag.Cons.csproj", "{8CF9E6D5-FF77-4E2F-ABDD-500A4AB69DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{956076DB-D927-49F5-840D-0F1512758879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956076DB-D927-49F5-840D-0F1512758879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956076DB-D927-49F5-840D-0F1512758879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C63412E-BBD0-4469-87AB-C66AABE7BCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C63412E-BBD0-4469-87AB-C66AABE7BCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C63412E-BBD0-4469-87AB-C66AABE7BCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C63412E-BBD0-4469-87AB-C66AABE7BCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF9E6D5-FF77-4E2F-ABDD-500A4AB69DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF9E6D5-FF77-4E2F-ABDD-500A4AB69DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF9E6D5-FF77-4E2F-ABDD-500A4AB69DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF9E6D5-FF77-4E2F-ABDD-500A4AB69DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
